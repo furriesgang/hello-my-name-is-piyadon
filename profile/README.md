@@ -1,5 +1,5 @@
 <samp>
-Once you pass away or it vanishes during moments beyond your control, you won't have the chance to replicate the experience.
+Fate is supreme
 </samp>
 
 
