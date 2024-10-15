@@ -1,8 +1,11 @@
 {
   "name": "FurryGang",
-  "irl_name": "REDACTED",
+  "irl_name": null,
   "desc": "hi",
   "birth_date": "27 June 2009",
-  "link": null,
-  "contacts": [{ "email": "epicmac2010@notmycode.dev" }]
+  "link": "https://github.com/UnitieG",
+  "contacts": [
+    { "email": "epicmac2010@notmycode.dev" },
+    { "discord": "furriesgang" }
+  ]
 }
