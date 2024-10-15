@@ -1,0 +1,29 @@
+permissions: write-all
+name: Merge JSON Data
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.9'
+
+
+      - name: Run merge script
+        run: python3 merge.py
+
+      - name: Upload merged JSON
+        uses: actions/upload-artifact@v2
+        with:
+          name: peoples-json
+          path: data/peoples.json

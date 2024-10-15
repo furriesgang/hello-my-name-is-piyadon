@@ -1,1 +1,53 @@
-["bluestar", "blueskychan", "furrygang", "forn"]
+[
+    {
+        "name": "blueskychan_",
+        "irl_name": "Phapoom Saksri",
+        "desc": "Stupid trans child from thailand that behind everything :3",
+        "birth_date": "17 December 2009",
+        "pronouns": null,
+        "link": "https://blueskychan.dev",
+        "contacts": [
+            {
+                "email": "mind@blueskychan.dev"
+            },
+            {
+                "email": "blueskychan@notmycode.dev"
+            },
+            {
+                "discord": "@blueskychan_"
+            },
+            {
+                "telegram": "https://t.me/mindhas403"
+            }
+        ]
+    },
+    {
+        "name": "bluestar",
+        "irl_name": "mac",
+        "desc": "most normal web dev who equipped fully mental issues and skill issues kit!!!!",
+        "birth_date": "3 April 2008",
+        "pronouns": null,
+        "link": null,
+        "contacts": [
+            {
+                "email": "canikissfemboy@gmail.com"
+            }
+        ]
+    },
+    {
+        "name": "FurryGang",
+        "irl_name": null,
+        "desc": "hi",
+        "birth_date": "27 June 2009",
+        "pronouns": null,
+        "link": "https://github.com/UnitieG",
+        "contacts": [
+            {
+                "email": "epicmac2010@notmycode.dev"
+            },
+            {
+                "discord": "furriesgang"
+            }
+        ]
+    }
+]
