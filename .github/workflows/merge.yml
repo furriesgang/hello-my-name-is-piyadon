@@ -16,14 +16,17 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
-          python-version: '3.9'
-
+          python-version: "3.9"
 
       - name: Run merge script
         run: python3 merge.py
 
-      - name: Upload merged JSON
-        uses: actions/upload-artifact@v4
-        with:
-          name: peoples-json
-          path: data/peoples.json
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "Github Action"
+          git add .
+          git commit -m "Auto-commit by GitHub Action"
+          git push
+          
