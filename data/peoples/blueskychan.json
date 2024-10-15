@@ -3,11 +3,12 @@
   "irl_name": "Phapoom Saksri",
   "desc": "Stupid trans child from thailand that behind everything :3",
   "birth_date": "17 December 2009",
+  "pronouns":null,
   "link": "https://blueskychan.dev",
   "contacts": [
     { "email": "mind@blueskychan.dev" },
     { "email": "blueskychan@notmycode.dev" },
     { "discord": "@blueskychan_" },
-    {"telegram" : "https://t.me/mindhas403"}
+    { "telegram": "https://t.me/mindhas403" }
   ]
 }

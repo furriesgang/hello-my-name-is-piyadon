@@ -3,6 +3,7 @@
   "irl_name": null,
   "desc": "hi",
   "birth_date": "27 June 2009",
+  "pronouns":null,
   "link": "https://github.com/UnitieG",
   "contacts": [
     { "email": "epicmac2010@notmycode.dev" },
