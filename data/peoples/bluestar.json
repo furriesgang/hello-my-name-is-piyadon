@@ -1,10 +1,7 @@
 {
-    "name": "bluestar",
-    "irl_name": "mac",
-    "desc": "most normal web dev who equipped fully mental issues and skill issues kit!!!!",
-    "birth_date": "3 April 2008",
-    "contacts": [
-        {"email": "canikissfemboy@gmail.com"}
-        
-    ]
+  "name": "bluestar",
+  "irl_name": "mac",
+  "desc": "most normal web dev who equipped fully mental issues and skill issues kit!!!!",
+  "birth_date": "3 April 2008",
+  "contacts": [{ "email": "canikissfemboy@gmail.com" }]
 }

@@ -1,28 +1,26 @@
 [
-    {
-      "title": "GalaxyBuild",
-      "description": "A kernel build project run by blueskychan_",
-      "maintainer": "blueskychan",
-      "start_date": "2022-12-01",
-      "end_date": null,
-      "link": "https://github.com/galaxybuild-project"
-    },
-    {
-      "title": "This website!!",
-      "description": "You already looking at it :D",
-      "maintainer": "bluestar",
-      "start_date": "2023-12-18",
-      "end_date": null,
-      "link": "https://github.com/notmycode-labs/notmycode.dev"
-    },
-    {
-        "title": "Dash - Server dashboard (already dead)",
-        "description": "It sucks so i have plans to remake it all",
-        "maintainer": "bluestar",
-        "start_date": "2024-02-01",
-        "end_date": "2024-10-01",
-        "link": "https://github.com/notmycode-labs/dash"
-      }
-  
-      
-  ]
+  {
+    "title": "GalaxyBuild",
+    "description": "A kernel build project run by blueskychan_",
+    "maintainer": "blueskychan",
+    "start_date": "2022-12-01",
+    "end_date": null,
+    "link": "https://github.com/galaxybuild-project"
+  },
+  {
+    "title": "This website!!",
+    "description": "You already looking at it :D",
+    "maintainer": "bluestar",
+    "start_date": "2023-12-18",
+    "end_date": null,
+    "link": "https://github.com/notmycode-labs/notmycode.dev"
+  },
+  {
+    "title": "Dash - Server dashboard (already dead)",
+    "description": "It sucks so i have plans to remake it all",
+    "maintainer": "bluestar",
+    "start_date": "2024-02-01",
+    "end_date": "2024-10-01",
+    "link": "https://github.com/notmycode-labs/dash"
+  }
+]
