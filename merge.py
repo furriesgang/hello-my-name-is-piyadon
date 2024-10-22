@@ -13,6 +13,6 @@ for json_file in json_files:
         merged_data.append(data)
 
 with open(output_file, 'w') as f:
-    json.dump(merged_data, f, indent=4)
+    json.dump(merged_data, f, indent=4, ensure_ascii=True)
 
 print(f'Merged data written to {output_file}')
