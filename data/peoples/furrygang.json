@@ -3,12 +3,13 @@
   "irl_name": null,
   "desc": "hi",
   "birth_date": "27 June 2009",
-  "pronouns": "she/her",
+  "pronouns": "she/her/they",
   "role": "Developer",
   "link": "https://furrygang.notmycode.dev",
   "contacts": [
     { "work email": "epicmac2010@notmycode.dev" },
     { "github" : "https://github.com/UnitieG" },
+    { "telegram": "https://t.me/furriesgang"},
     { "discord": "furriesgang" }
   ]
 }
