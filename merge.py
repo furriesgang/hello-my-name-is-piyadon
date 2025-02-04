@@ -4,7 +4,7 @@ import os
 input_dir = 'data/peoples/'
 output_file = 'data/peoples.json'
 
-json_files = {'blueskychan_.json', 'bluestar.json', 'furrygang.json', 'mizuki403_.json', 'nyarutoru.json', 'danielrockford.json'}
+json_files = {'blueskychan_', 'bluestar', 'furrygang', 'mizuki403_', 'nyarutoru'}
 
 allowed_schema = {
     "name": (str, type(None)),
@@ -24,7 +24,7 @@ actual_files = set(os.listdir(input_dir))
 for json_file in actual_files:
     file_path = os.path.join(input_dir, json_file)
 
-    if json_file not in json_files:
+    if json_file[:-5] not in json_files:  # Remove the ".json" extension and check if it's in the allowed list
         print(f'Warning: {json_file} exists but is not allowed to merge due to not being in the list.')
         continue
 
@@ -57,6 +57,7 @@ for json_file in actual_files:
                 print(f'Error: {json_file} has an invalid contacts format and will be skipped. [Schema Detection: Failed]')
                 continue
 
+        data["file_name"] = json_file.replace('.json', '')  # Add the file name without the ".json"
         print(f'Success: {json_file} passed schema validation. [Schema Detection: Passed]')
         merged_data.append(data)
 
@@ -66,4 +67,4 @@ for json_file in actual_files:
 with open(output_file, 'w', encoding='utf-8') as f:
     json.dump(merged_data, f, indent=4, ensure_ascii=False)
 
-print(f'Merged data written to {output_file}')
+print(f'Merged data with file names written to {output_file}')
