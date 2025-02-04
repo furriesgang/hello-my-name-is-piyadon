@@ -4,7 +4,7 @@ import os
 input_dir = 'data/peoples/'
 output_file = 'data/peoples.json'
 
-json_files = {'blueskychan_', 'bluestar', 'furrygang', 'mizuki403_', 'nyarutoru'}
+json_files = {'blueskychan_', 'bluestar', 'furrygang', 'mizuki403_', 'nyarutoru', 'danielrockford'}
 
 allowed_schema = {
     "name": (str, type(None)),

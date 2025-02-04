@@ -1,5 +1,68 @@
 [
     {
+        "name": "Daniel Rockford",
+        "irl_name": "Pannarat Wiriyaarritham",
+        "desc": null,
+        "birth_date": "4 February 2009",
+        "pronouns": "he/him",
+        "role": "Not assigned yet.",
+        "link": "https://github.com/PannaratWiriyaarritham",
+        "contacts": [
+            {
+                "work email": "pan2018iop.er@notmycode.dev"
+            },
+            {
+                "discord": "danielrockford"
+            }
+        ],
+        "file_name": "danielrockford"
+    },
+    {
+        "name": "FurryGang",
+        "irl_name": null,
+        "desc": "hi",
+        "birth_date": "27 June 2009",
+        "pronouns": "she/her/they",
+        "role": "Developer",
+        "link": "https://furrygang.notmycode.dev",
+        "contacts": [
+            {
+                "work email": "epicmac2010@notmycode.dev"
+            },
+            {
+                "github": "https://github.com/UnitieG"
+            },
+            {
+                "telegram": "https://t.me/furriesgang"
+            },
+            {
+                "discord": "furriesgang"
+            }
+        ],
+        "file_name": "furrygang"
+    },
+    {
+        "name": "Nyaru Toru",
+        "irl_name": null,
+        "desc": null,
+        "birth_date": null,
+        "pronouns": "she/her",
+        "role": "Not assigned yet.",
+        "link": "https://github.com/y82t2z",
+        "contacts": [
+            {
+                "work email": "nyarutoru@notmycode.dev"
+            },
+            {
+                "discord": "@nyaru.toru"
+            },
+            {
+                "telegram": "https://t.me/nyarutoru_ai"
+            }
+        ],
+        "file_name": "nyarutoru"
+    },
+    {
         "name": "Mizuki403_",
         "irl_name": null,
         "desc": "Stupid girl that don't know how to reserve.",
@@ -9,21 +72,6 @@
         "link": "https://mizuki403.notmycode.dev",
         "contacts": [],
         "file_name": "mizuki403_"
-    },
-    {
-        "name": "bluestar",
-        "irl_name": "mac",
-        "desc": "most normal web dev who equipped fully mental issues and skill issues kit!!!!",
-        "birth_date": "3 April 2008",
-        "role": "Maintainer",
-        "pronouns": null,
-        "link": null,
-        "contacts": [
-            {
-                "email": "canikissfemboy@gmail.com"
-            }
-        ],
-        "file_name": "bluestar"
     },
     {
         "name": "blueskychan_",
@@ -53,48 +101,18 @@
         "file_name": "blueskychan_"
     },
     {
-        "name": "Nyaru Toru",
-        "irl_name": null,
-        "desc": null,
-        "birth_date": null,
-        "pronouns": "she/her",
-        "role": "Not assigned yet.",
-        "link": "https://github.com/y82t2z",
+        "name": "bluestar",
+        "irl_name": "mac",
+        "desc": "most normal web dev who equipped fully mental issues and skill issues kit!!!!",
+        "birth_date": "3 April 2008",
+        "role": "Maintainer",
+        "pronouns": null,
+        "link": null,
         "contacts": [
             {
-                "work email": "nyarutoru@notmycode.dev"
-            },
-            {
-                "discord": "@nyaru.toru"
-            },
-            {
-                "telegram": "https://t.me/nyarutoru_ai"
+                "email": "canikissfemboy@gmail.com"
             }
         ],
-        "file_name": "nyarutoru"
-    },
-    {
-        "name": "FurryGang",
-        "irl_name": null,
-        "desc": "hi",
-        "birth_date": "27 June 2009",
-        "pronouns": "she/her/they",
-        "role": "Developer",
-        "link": "https://furrygang.notmycode.dev",
-        "contacts": [
-            {
-                "work email": "epicmac2010@notmycode.dev"
-            },
-            {
-                "github": "https://github.com/UnitieG"
-            },
-            {
-                "telegram": "https://t.me/furriesgang"
-            },
-            {
-                "discord": "furriesgang"
-            }
-        ],
-        "file_name": "furrygang"
+        "file_name": "bluestar"
     }
 ]
