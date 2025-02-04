@@ -1,5 +1,35 @@
 [
     {
+        "name": "Nyaru Toru",
+        "irl_name": null,
+        "desc": null,
+        "birth_date": null,
+        "pronouns": "she/her",
+        "role": "Not assigned yet.",
+        "link": "https://github.com/y82t2z",
+        "contacts": [
+            {
+                "work email": "nyarutoru@notmycode.dev"
+            },
+            {
+                "discord": "@nyaru.toru"
+            },
+            {
+                "telegram": "https://t.me/nyarutoru_ai"
+            }
+        ]
+    },
+    {
+        "name": "Mizuki403_",
+        "irl_name": null,
+        "desc": "Stupid girl that don't know how to reserve.",
+        "birth_date": null,
+        "pronouns": "she/her",
+        "role": "พี่เลี้ยงเด็ก?",
+        "link": "https://mizuki403.notmycode.dev",
+        "contacts": []
+    },
+    {
         "name": "blueskychan_",
         "irl_name": "Phapoom Saksri",
         "desc": "Stupid trans child from thailand that behind everything :3",
@@ -26,16 +56,19 @@
         ]
     },
     {
-        "name": "bluestar",
-        "irl_name": "mac",
-        "desc": "most normal web dev who equipped fully mental issues and skill issues kit!!!!",
-        "birth_date": "3 April 2008",
-        "role": "Maintainer",
-        "pronouns": null,
-        "link": null,
+        "name": "Daniel Rockford",
+        "irl_name": "Pannarat Wiriyaarritham",
+        "desc": null,
+        "birth_date": "4 February 2009",
+        "pronouns": "he/him",
+        "role": "Not assigned yet.",
+        "link": "https://github.com/PannaratWiriyaarritham",
         "contacts": [
             {
-                "email": "canikissfemboy@gmail.com"
+                "work email": "pan2018iop.er@notmycode.dev"
+            },
+            {
+                "discord": "danielrockford"
             }
         ]
     },
@@ -63,32 +96,16 @@
         ]
     },
     {
-        "name": "Mizuki403_",
-        "irl_name": null,
-        "desc": "Stupid girl that don't know how to reserve.",
-        "birth_date": null,
-        "pronouns": "she/her",
-        "role": "พี่เลี้ยงเด็ก?",
-        "link": "https://mizuki403.notmycode.dev",
-        "contacts": []
-    },
-    {
-        "name": "Nyaru Toru",
-        "irl_name": null,
-        "desc": null,
-        "birth_date": null,
-        "pronouns": "she/her",
-        "role": "Not assigned yet.",
-        "link": "https://github.com/y82t2z",
+        "name": "bluestar",
+        "irl_name": "mac",
+        "desc": "most normal web dev who equipped fully mental issues and skill issues kit!!!!",
+        "birth_date": "3 April 2008",
+        "role": "Maintainer",
+        "pronouns": null,
+        "link": null,
         "contacts": [
             {
-                "work email": "nyarutoru@notmycode.dev"
-            },
-            {
-                "discord": "@nyaru.toru"
-            },
-            {
-                "telegram": "https://t.me/nyarutoru_ai"
+                "email": "canikissfemboy@gmail.com"
             }
         ]
     }
