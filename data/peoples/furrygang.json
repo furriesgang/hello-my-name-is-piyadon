@@ -4,10 +4,11 @@
   "desc": "hi",
   "birth_date": "27 June 2009",
   "pronouns": "she/her",
-  "role": "developer",
-  "link": "https://github.com/UnitieG",
+  "role": "Developer",
+  "link": "https://furrygang.notmycode.dev",
   "contacts": [
     { "email": "epicmac2010@notmycode.dev" },
+    { "github" : "https://github.com/UnitieG" },
     { "discord": "furriesgang" }
   ]
 }
