@@ -71,5 +71,25 @@
         "role": "พี่เลี้ยงเด็ก?",
         "link": "https://mizuki403.notmycode.dev",
         "contacts": []
+    },
+    {
+        "name": "Nyaru Toru",
+        "irl_name": null,
+        "desc": null,
+        "birth_date": null,
+        "pronouns": "she/her",
+        "role": "Not assigned yet.",
+        "link": "https://github.com/y82t2z",
+        "contacts": [
+            {
+                "work email": "nyarutoru@notmycode.dev"
+            },
+            {
+                "discord": "@nyaru.toru"
+            },
+            {
+                "telegram": "https://t.me/nyarutoru_ai"
+            }
+        ]
     }
 ]

@@ -3,7 +3,7 @@ import os
 
 input_dir = 'data/peoples/'
 output_file = 'data/peoples.json'
-json_files = ['blueskychan_.json', 'bluestar.json', 'furrygang.json', 'mizuki403_.json']
+json_files = ['blueskychan_.json', 'bluestar.json', 'furrygang.json', 'mizuki403_.json', 'nyarutoru.json']
 merged_data = []
 
 for json_file in json_files:
