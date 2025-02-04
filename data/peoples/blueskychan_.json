@@ -7,8 +7,9 @@
   "role": "Project Founder",
   "link": "https://mindhas403.dev",
   "contacts": [
-    { "email": "hello@mindhas403.dev" },
-    { "email": "blueskychan@notmycode.dev" },
+    { "personal email": "hello@mindhas403.dev" },
+    { "work email": "blueskychan@notmycode.dev" },
+    { "github": "https://github.com/blueskychan-dev" },
     { "discord": "@blueskychan_" },
     { "telegram": "https://t.me/mindhas403" }
   ]
