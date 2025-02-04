@@ -1,23 +1,5 @@
 [
     {
-        "name": "Daniel Rockford",
-        "irl_name": "Pannarat Wiriyaarritham",
-        "desc": null,
-        "birth_date": "4 February 2009",
-        "pronouns": "he/him",
-        "role": "Not assigned yet.",
-        "link": "https://github.com/PannaratWiriyaarritham",
-        "contacts": [
-            {
-                "work email": "pan2018iop.er@notmycode.dev"
-            },
-            {
-                "discord": "danielrockford"
-            }
-        ],
-        "file_name": "danielrockford"
-    },
-    {
         "name": "FurryGang",
         "irl_name": null,
         "desc": "hi",
@@ -40,6 +22,51 @@
             }
         ],
         "file_name": "furrygang"
+    },
+    {
+        "name": "Daniel Rockford",
+        "irl_name": "Pannarat Wiriyaarritham",
+        "desc": null,
+        "birth_date": "4 February 2009",
+        "pronouns": "he/him",
+        "role": "Not assigned yet.",
+        "link": "https://github.com/PannaratWiriyaarritham",
+        "contacts": [
+            {
+                "work email": "pan2018iop.er@notmycode.dev"
+            },
+            {
+                "discord": "danielrockford"
+            }
+        ],
+        "file_name": "danielrockford"
+    },
+    {
+        "name": "blueskychan_",
+        "irl_name": "Phapoom Saksri",
+        "desc": "Stupid trans child from thailand that behind everything :3",
+        "birth_date": "17 December 2009",
+        "pronouns": "she/her",
+        "role": "Project Founder",
+        "link": "https://mindhas403.dev",
+        "contacts": [
+            {
+                "personal email": "hello@mindhas403.dev"
+            },
+            {
+                "work email": "blueskychan@notmycode.dev"
+            },
+            {
+                "github": "https://github.com/blueskychan-dev"
+            },
+            {
+                "discord": "@blueskychan_"
+            },
+            {
+                "telegram": "https://t.me/mindhas403"
+            }
+        ],
+        "file_name": "blueskychan_"
     },
     {
         "name": "Nyaru Toru",
@@ -72,33 +99,6 @@
         "link": "https://mizuki403.notmycode.dev",
         "contacts": [],
         "file_name": "mizuki403_"
-    },
-    {
-        "name": "blueskychan_",
-        "irl_name": "Phapoom Saksri",
-        "desc": "Stupid trans child from thailand that behind everything :3",
-        "birth_date": "17 December 2009",
-        "pronouns": "she/her",
-        "role": "Project Founder",
-        "link": "https://mindhas403.dev",
-        "contacts": [
-            {
-                "personal email": "hello@mindhas403.dev"
-            },
-            {
-                "work email": "blueskychan@notmycode.dev"
-            },
-            {
-                "github": "https://github.com/blueskychan-dev"
-            },
-            {
-                "discord": "@blueskychan_"
-            },
-            {
-                "telegram": "https://t.me/mindhas403"
-            }
-        ],
-        "file_name": "blueskychan_"
     },
     {
         "name": "bluestar",
