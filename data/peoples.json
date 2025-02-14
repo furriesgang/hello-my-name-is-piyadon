@@ -1,5 +1,53 @@
 [
     {
+        "name": "Nyaru Toru",
+        "irl_name": null,
+        "desc": null,
+        "birth_date": null,
+        "pronouns": "she/her",
+        "role": "Not assigned yet.",
+        "link": "https://github.com/y82t2z",
+        "contacts": [
+            {
+                "work email": "nyarutoru@notmycode.dev"
+            },
+            {
+                "discord": "@nyaru.toru"
+            },
+            {
+                "telegram": "https://t.me/nyarutoru_ai"
+            }
+        ],
+        "file_name": "nyarutoru"
+    },
+    {
+        "name": "blueskychan_",
+        "irl_name": "Phapoom Saksri",
+        "desc": "Stupid trans child from thailand that behind everything :3",
+        "birth_date": "17 December 2009",
+        "pronouns": "she/her",
+        "role": "Project Founder",
+        "link": "https://mindhas403.dev",
+        "contacts": [
+            {
+                "personal email": "hello@mindhas403.dev"
+            },
+            {
+                "work email": "blueskychan@notmycode.dev"
+            },
+            {
+                "github": "https://github.com/blueskychan-dev"
+            },
+            {
+                "discord": "@blueskychan_"
+            },
+            {
+                "telegram": "https://t.me/mindhas403"
+            }
+        ],
+        "file_name": "blueskychan_"
+    },
+    {
         "name": "FurryGang",
         "irl_name": null,
         "desc": "hi",
@@ -40,54 +88,6 @@
             }
         ],
         "file_name": "danielrockford"
-    },
-    {
-        "name": "blueskychan_",
-        "irl_name": "Phapoom Saksri",
-        "desc": "Stupid trans child from thailand that behind everything :3",
-        "birth_date": "17 December 2009",
-        "pronouns": "she/her",
-        "role": "Project Founder",
-        "link": "https://mindhas403.dev",
-        "contacts": [
-            {
-                "personal email": "hello@mindhas403.dev"
-            },
-            {
-                "work email": "blueskychan@notmycode.dev"
-            },
-            {
-                "github": "https://github.com/blueskychan-dev"
-            },
-            {
-                "discord": "@blueskychan_"
-            },
-            {
-                "telegram": "https://t.me/mindhas403"
-            }
-        ],
-        "file_name": "blueskychan_"
-    },
-    {
-        "name": "Nyaru Toru",
-        "irl_name": null,
-        "desc": null,
-        "birth_date": null,
-        "pronouns": "she/her",
-        "role": "Not assigned yet.",
-        "link": "https://github.com/y82t2z",
-        "contacts": [
-            {
-                "work email": "nyarutoru@notmycode.dev"
-            },
-            {
-                "discord": "@nyaru.toru"
-            },
-            {
-                "telegram": "https://t.me/nyarutoru_ai"
-            }
-        ],
-        "file_name": "nyarutoru"
     },
     {
         "name": "Mizuki403_",
