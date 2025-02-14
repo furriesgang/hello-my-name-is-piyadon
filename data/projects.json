@@ -1,5 +1,13 @@
 [
   {
+    "title": "VNCPot",
+    "description": "Shitty VNC Honey pot server written in rust.",
+    "maintainer": "furrygang",
+    "start_date": "2025-02-14",
+    "end_date": "2025-02-14",
+    "link": "https://github.com/notmycode-labs/vncpot"
+  },
+  {
     "title": "GalaxyBuild",
     "description": "A kernel build project run by blueskychan_",
     "maintainer": "blueskychan_",
