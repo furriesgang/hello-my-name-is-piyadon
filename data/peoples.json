@@ -21,21 +21,6 @@
         "file_name": "nyarutoru"
     },
     {
-        "name": "bluestar",
-        "irl_name": "mac",
-        "desc": "most normal web dev who equipped fully mental issues and skill issues kit!!!!",
-        "birth_date": "3 April 2008",
-        "role": "Maintainer",
-        "pronouns": null,
-        "link": null,
-        "contacts": [
-            {
-                "email": "canikissfemboy@gmail.com"
-            }
-        ],
-        "file_name": "bluestar"
-    },
-    {
         "name": "blueskychan_",
         "irl_name": "Phapoom Saksri",
         "desc": "Stupid trans child from thailand that behind everything :3",
@@ -61,17 +46,6 @@
             }
         ],
         "file_name": "blueskychan_"
-    },
-    {
-        "name": "Mizuki403_",
-        "irl_name": null,
-        "desc": "Stupid girl that don't know how to reserve.",
-        "birth_date": null,
-        "pronouns": "she/her",
-        "role": "พี่เลี้ยงเด็ก?",
-        "link": "https://mizuki403.notmycode.dev",
-        "contacts": [],
-        "file_name": "mizuki403_"
     },
     {
         "name": "FurryGang",
@@ -114,5 +88,31 @@
             }
         ],
         "file_name": "danielrockford"
+    },
+    {
+        "name": "Mizuki403_",
+        "irl_name": null,
+        "desc": "Stupid girl that don't know how to reserve.",
+        "birth_date": null,
+        "pronouns": "she/her",
+        "role": "พี่เลี้ยงเด็ก?",
+        "link": "https://mizuki403.notmycode.dev",
+        "contacts": [],
+        "file_name": "mizuki403_"
+    },
+    {
+        "name": "bluestar",
+        "irl_name": "mac",
+        "desc": "most normal web dev who equipped fully mental issues and skill issues kit!!!!",
+        "birth_date": "3 April 2008",
+        "role": "Maintainer",
+        "pronouns": null,
+        "link": null,
+        "contacts": [
+            {
+                "email": "canikissfemboy@gmail.com"
+            }
+        ],
+        "file_name": "bluestar"
     }
 ]
